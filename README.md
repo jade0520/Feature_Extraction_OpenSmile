@@ -17,6 +17,9 @@ Codes for extracting features with Open Smile tool kit
 3. Excute below
 
 
+# Sturcture
+
+
 
 # Contact
 📫 seo.jiyoung@dsp.inha.ac.kr  
