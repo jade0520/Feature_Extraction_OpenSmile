@@ -10,9 +10,8 @@ Codes for extracting features with Open Smile tool kit
   - [Download link](https://github.com/audeering/opensmile/releases)
   - OpenSmile documents : https://audeering.github.io/opensmile/  
 
-2. Clone this repo  
-2-1. copy 'https://github.com/jade0520/Feature_Extraction_OpenSmile.git'  
-2-2. `git clone https://github.com/jade0520/Feature_Extraction_OpenSmile.git` at your server
+2. Clone this repo at your server  
+`git clone https://github.com/jade0520/Feature_Extraction_OpenSmile.git`
 
 3. Excute below
 
