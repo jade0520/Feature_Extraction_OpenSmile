@@ -5,7 +5,9 @@ Codes for extracting features with Open Smile tool kit
 
 # Quick Start 
 
-1. Set up OpenSmile toolkit for your server [Download link](https://github.com/audeering/opensmile/releases)
+1. Set up OpenSmile toolkit for your server 
+  # Linux 예시 쓰기
+  - [Download link](https://github.com/audeering/opensmile/releases)
   - OpenSmile documents : https://audeering.github.io/opensmile/  
 
 2. Clone this repo  
@@ -16,7 +18,6 @@ Codes for extracting features with Open Smile tool kit
 
 
 
-
-📫 seo.jiyoung@dsp.inha.ac.kr
-Any comments or opinions are welcome;)
-Thank you:)
+# Contact
+📫 seo.jiyoung@dsp.inha.ac.kr  
+Any comments or opinions are welcome;) 
