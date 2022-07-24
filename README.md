@@ -19,10 +19,10 @@ Ouput - csvs file or/and pickle file of extracted features
   `bash run.sh`  
 
 ## Sturcture
-1. feature --> csv    
+### feature(OpenSmile) --> csv    
   - extract_wavs  
   
-2. csv --> pickle  
+### csv --> pickle  
   - csvs_to_pickle_all : save all data as one pickle   
   - csvs_to_N_fold_pickles_labels : divede labels for cross fold validation (1/5/10 folds & independent/dependent)  
   - csvs_to_N_fold_pickle : save feature csvs as array pickles based on devided label folds  
